@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59903" started-at="2018-02-19T12:41:57Z" finished-at="2018-02-19T12:42:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59903" started-at="2018-02-19T12:41:57Z" finished-at="2018-02-19T12:42:57Z">
+      <class name="testInnovationTask.TestApp">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testInnovationTask.TestApp@82f6ef]" name="setup" is-config="true" duration-ms="2010" started-at="2018-02-19T18:11:55Z" finished-at="2018-02-19T18:11:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC00_browserLoad()[pri:0, instance:testInnovationTask.TestApp@82f6ef]" name="TC00_browserLoad" duration-ms="20785" started-at="2018-02-19T18:11:58Z" finished-at="2018-02-19T18:12:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC00_browserLoad -->
+        <test-method status="PASS" signature="TC01_navigationCheck()[pri:1, instance:testInnovationTask.TestApp@82f6ef]" name="TC01_navigationCheck" duration-ms="1344" started-at="2018-02-19T18:12:18Z" finished-at="2018-02-19T18:12:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_navigationCheck -->
+        <test-method status="PASS" signature="TC02_selectAustralia()[pri:2, instance:testInnovationTask.TestApp@82f6ef]" name="TC02_selectAustralia" duration-ms="3810" started-at="2018-02-19T18:12:20Z" finished-at="2018-02-19T18:12:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_selectAustralia -->
+        <test-method status="PASS" signature="TC03_selectNavigationCommands()[pri:3, instance:testInnovationTask.TestApp@82f6ef]" name="TC03_selectNavigationCommands" duration-ms="3796" started-at="2018-02-19T18:12:23Z" finished-at="2018-02-19T18:12:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_selectNavigationCommands -->
+        <test-method status="PASS" signature="TC05_selectGender()[pri:5, instance:testInnovationTask.TestApp@82f6ef]" name="TC05_selectGender" duration-ms="2521" started-at="2018-02-19T18:12:27Z" finished-at="2018-02-19T18:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_selectGender -->
+        <test-method status="PASS" signature="TC06_enterFirstName()[pri:6, instance:testInnovationTask.TestApp@82f6ef]" name="TC06_enterFirstName" duration-ms="778" started-at="2018-02-19T18:12:30Z" finished-at="2018-02-19T18:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_enterFirstName -->
+        <test-method status="PASS" signature="TC07_enterLastName()[pri:7, instance:testInnovationTask.TestApp@82f6ef]" name="TC07_enterLastName" duration-ms="857" started-at="2018-02-19T18:12:31Z" finished-at="2018-02-19T18:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07_enterLastName -->
+        <test-method status="PASS" signature="TC08_yearsOfExperience()[pri:8, instance:testInnovationTask.TestApp@82f6ef]" name="TC08_yearsOfExperience" duration-ms="6751" started-at="2018-02-19T18:12:31Z" finished-at="2018-02-19T18:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC08_yearsOfExperience -->
+        <test-method status="PASS" signature="TC09_enterLastName()[pri:9, instance:testInnovationTask.TestApp@82f6ef]" name="TC09_enterLastName" duration-ms="452" started-at="2018-02-19T18:12:38Z" finished-at="2018-02-19T18:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC09_enterLastName -->
+        <test-method status="PASS" signature="TC10_selectProfession()[pri:10, instance:testInnovationTask.TestApp@82f6ef]" name="TC10_selectProfession" duration-ms="1561" started-at="2018-02-19T18:12:39Z" finished-at="2018-02-19T18:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10_selectProfession -->
+        <test-method status="PASS" signature="TC11_selectIDE_webdriver()[pri:11, instance:testInnovationTask.TestApp@82f6ef]" name="TC11_selectIDE_webdriver" duration-ms="1696" started-at="2018-02-19T18:12:40Z" finished-at="2018-02-19T18:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC11_selectIDE_webdriver -->
+        <test-method status="PASS" signature="TC12_localFileUpload()[pri:12, instance:testInnovationTask.TestApp@82f6ef]" name="TC12_localFileUpload" duration-ms="13309" started-at="2018-02-19T18:12:42Z" finished-at="2018-02-19T18:12:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC12_localFileUpload -->
+        <test-method status="PASS" signature="TC13_downloadFile()[pri:13, instance:testInnovationTask.TestApp@82f6ef]" name="TC13_downloadFile" duration-ms="2181" started-at="2018-02-19T18:12:55Z" finished-at="2018-02-19T18:12:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC13_downloadFile -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:testInnovationTask.TestApp@82f6ef]" name="exit" is-config="true" duration-ms="22267" started-at="2018-02-19T18:12:57Z" finished-at="2018-02-19T18:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- testInnovationTask.TestApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

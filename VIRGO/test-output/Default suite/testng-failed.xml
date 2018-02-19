@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="testInnovationTask.TestApp">
+        <methods>
+          <include name="TC02_selectAustralia"/>
+          <include name="TC10_selectProfession"/>
+          <include name="TC13_downloadFile"/>
+          <include name="TC07_enterLastName"/>
+          <include name="TC08_yearsOfExperience"/>
+          <include name="TC01_navigationCheck"/>
+          <include name="TC09_enterLastName"/>
+          <include name="TC05_selectGender"/>
+          <include name="setup"/>
+          <include name="TC12_localFileUpload"/>
+          <include name="TC00_browserLoad"/>
+          <include name="TC11_selectIDE_webdriver"/>
+          <include name="TC06_enterFirstName"/>
+          <include name="TC03_selectNavigationCommands"/>
+          <include name="exit"/>
+        </methods>
+      </class> <!-- testInnovationTask.TestApp -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
